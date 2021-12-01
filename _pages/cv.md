@@ -17,8 +17,8 @@ Education
 Skills
 ======
 * Skilled at Python, Tensorflow, Pytorch, LaTex
-Familiar with C/C++/c\#, Java, TypeScript, data structures and algorithm 
-* Familiar with C/C++/c\#, Java, TypeScript, data structures and algorithm
+Familiar with C/C++/C\#, Java, TypeScript, data structures and algorithm 
+* Familiar with C/C++/C\#, Java, TypeScript, data structures and algorithm
 * Fluent in English
 
 Publications
