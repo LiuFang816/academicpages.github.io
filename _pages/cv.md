@@ -11,30 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.S. in Computer Science, Chongqing University, 2013-2017
+* Ph.D in Computer Science, Peking University, 2017-2022 (expected)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skilled at Python, Tensorflow, Pytorch, LaTex
+Familiar with C/C++/c\#, Java, TypeScript, data structures and algorithm 
+* Familiar with C/C++/c\#, Java, TypeScript, data structures and algorithm
+* Fluent in English
 
 Publications
 ======
@@ -42,18 +27,17 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+Teaching and Service 
 ======
-* Currently signed in to 43 different slack teams
+* Teaching assistant
+  * Technique and Application of Deep Learning, Peking University.
+* Co-rviewer of conferences and journals
+  * Conferences: ICSE 2021, FSE 2020, SANER 2020, KSEM 2018
+  * Journals: EMSE 2020, SCIS 2019, ACM Computing Surveys 2019, JSS 2018 
