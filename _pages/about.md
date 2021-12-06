@@ -24,9 +24,9 @@ I am currently a Ph.D student at School of Electronics Engineering and Computer 
 - **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion, International Conference on Automated Software Engineering (ASE 2020) 
 - **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning, International Conference on Program Comprehension (**ICPC 2020, ACM Distinguished Paper Award**) 
 - **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM, Journal of Systems and Software (JSS 2020) 
-- **刘芳**, 李戈, 胡星, 金芝, 基于深度学习的程序理解研究进展, 计算机研究与发展. 2019 
-- 胡星, 李戈, **刘芳**, 金芝, 基于深度学习的程序生成与补全技术研究进展, 软件学报. 2019 
-- 金芝, **刘芳**, 李戈, 程序理解：现状与未来, 软件学报. 2018 
+- **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning, Journal of Computer Research and Development. 2019 (Chinese)
+- Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review, journal of Software 2019 (Chinese)
+- Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future, Journal of Software 2018 (Chinese)
 
 ---
 
