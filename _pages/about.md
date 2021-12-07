@@ -26,7 +26,7 @@ I am currently a Ph.D student at School of Electronics Engineering and Computer 
 - **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM, Journal of Systems and Software (JSS 2020) 
 - **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning, Journal of Computer Research and Development. 2019 (Chinese)
 - Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review, journal of Software 2019 (Chinese)
-- Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future, Journal of Software 2019 (Chinese)
+- Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future, Journal of Software 2018 (Chinese)
 
 ---
 
