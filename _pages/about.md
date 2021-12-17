@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student at School of Electronics Engineering and Computer Science (EECS), Peking University, China. I was supervised by Prof. Zhi Jin and Prof. Ge Li. My research mainly focuses on software engineering, including AI for SE, program understanding and recommendation.
+I am currently a Ph.D student at School of Electronics Engineering and Computer Science (EECS), Peking University, China. I was supervised by Prof. [Zhi Jin](http://faculty.pku.edu.cn/zhijin/en/index.htm) and Prof. [Ge Li](https://ligechina.github.io/). My research mainly focuses on software engineering, including AI for SE, program understanding and recommendation.
 
 ---
 
