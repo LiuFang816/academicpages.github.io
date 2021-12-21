@@ -20,13 +20,13 @@ I am currently a Ph.D student at School of Electronics Engineering and Computer 
 ---
 
 ### Publications
-- **Fang Liu**, Ge Li, Zhiyi Fu, Shuai Lu, Yiyang Hao, Zhi Jin, Learning to Recommend Method Names with Global Context, International Conference on Software Engineering (ICSE 2022)
-- **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion, International Conference on Automated Software Engineering (ASE 2020) 
-- **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning, International Conference on Program Comprehension (**ICPC 2020, ACM Distinguished Paper Award**) 
-- **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM, Journal of Systems and Software (JSS 2020) 
-- **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning, Journal of Computer Research and Development. 2019 (Chinese)
-- Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review, journal of Software 2019 (Chinese)
-- Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future, Journal of Software 2019 (Chinese)
+- **[ICSE'22]** **Fang Liu**, Ge Li, Zhiyi Fu, Shuai Lu, Yiyang Hao, Zhi Jin, Learning to Recommend Method Names with Global Context (**CCF-A**)
+- **[ASE'20]** **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion (**CCF-A**)
+- **[ICPC'20]** **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning (**CCF-B, ACM Distinguished Paper Award**) 
+- **[JSS'20]** **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM (**CCF-B**) 
+- **[Journal of Computer Research and Developmen'19]** **Fang Liu**, Ge Li, Xing Hu, Zhi Jin, Program Comprehension Based on Deep Learning (**CCF中文-A**)
+- **[Journal of Software'19]** Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review (**CCF中文-A**)
+- **[Journal of Software'19]** Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future (**CCF中文-A**)
 
 ---
 
