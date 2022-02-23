@@ -21,6 +21,7 @@ I am currently a Ph.D student at School of Electronics Engineering and Computer 
 
 ### Publications
 - **[ICSE'22]** **Fang Liu**, Ge Li, Zhiyi Fu, Shuai Lu, Yiyang Hao, Zhi Jin, Learning to Recommend Method Names with Global Context (**CCF-A**)
+- **[EMSE'22]** **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Unified Multi-task Learning Model for AST-level and Token-level Code Completion (**CCF-B**)
 - **[ASE'20]** **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion (**CCF-A**)
 - **[ICPC'20]** **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Self-Attentional Neural Architecture for Code Completion with Multi-Task Learning (**CCF-B, ACM Distinguished Paper Award**) 
 - **[JSS'20]** **Fang Liu**, Lu Zhang, Zhi Jin, Modeling programs hierarchically with stack-augmented LSTM (**CCF-B**) 
