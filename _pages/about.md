@@ -14,7 +14,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 
 ### Education
 
-- 2017/09-2022/07, Peking University, Ph.D. candidate in Computer Science
+- 2017/09-2022/07, Peking University, Ph.D. in Computer Science
 - 2013/09-2017/06, Chongqing University, B.S. in Computer Science
 
 ---
