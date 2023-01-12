@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student at School of Electronics Engineering and Computer Science (EECS), Peking University, China. I was supervised by Prof. [Zhi Jin](http://faculty.pku.edu.cn/zhijin/en/index.htm) and Prof. [Ge Li](https://ligechina.github.io/). My research mainly focuses on software engineering, including AI for SE, program understanding and recommendation.
+I am currently an Assistant Professor at School of Computer Science & Engineering, Beihang University, China. My research mainly focuses on software engineering, including AI for SE, program understanding and recommendation.
 
 ---
 
 ### Education
 
-- 2017/09-present, Peking University, Ph.D. candidate in Computer Science
+- 2017/09-2022/07, Peking University, Ph.D. candidate in Computer Science
 - 2013/09-2017/06, Chongqing University, B.S. in Computer Science
 
 ---
@@ -33,5 +33,5 @@ I am currently a Ph.D student at School of Electronics Engineering and Computer 
 
 ### Contact
 
-[Email Me](mailto:pku.fangliu@gmail.com) 
-> No. 1726, No. 1 Science Building, No.5 Yiheyuan Road Haidian District, Beijing, P.R.China 100871
+[Email Me](mailto:fangliu@buaa.edu.cn) 
+> Colleage Road,Haidian District, No.37, Beijing, P.R.China 100191
