@@ -21,6 +21,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 
 ### Publications
 - **[ICSE'23]** **Fang Liu**, Jia Li, Li Zhang, Syntax and Domain Aware Model for Unsupervised Program Translation (**CCF-A**)
+- **[ASEJ'23]** Zejun Wang, **Fang Liu**, Yiyang Hao, Zhi Jin, AdaComplete: Improve DL-based Code Completion Method’s Domain Adaptability (**CCF-B**)
 - **[ICSE'22]** **Fang Liu**, Ge Li, Zhiyi Fu, Shuai Lu, Yiyang Hao, Zhi Jin, Learning to Recommend Method Names with Global Context (**CCF-A**)
 - **[EMSE'22]** **Fang Liu**, Ge Li, Bolin Wei, Xin Xia, Zhiyi Fu, Zhi Jin, A Unified Multi-task Learning Model for AST-level and Token-level Code Completion (**CCF-B**)
 - **[ASE'20]** **Fang Liu**, Ge Li, Yunfei Zhao, Zhi Jin, Multi-task Learning based Pre-trained Language Model for Code Completion (**CCF-A**)
