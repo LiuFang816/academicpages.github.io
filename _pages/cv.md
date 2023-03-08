@@ -39,6 +39,6 @@ Teaching and Service
 ======
 * Teaching assistant
   * Technique and Application of Deep Learning, Peking University.
-* Co-rviewer of conferences and journals
+* Co-reviewer of conferences and journals
   * Conferences: ICSE 2022, AAAI 2022, ICSE 2021, FSE 2020, SANER 2020, KSEM 2018
   * Journals: EMSE 2020, SCIS 2019, ACM Computing Surveys 2019, JSS 2018 
