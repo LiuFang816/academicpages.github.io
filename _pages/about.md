@@ -20,7 +20,8 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications
-- **[ASE'23]** Jia Li, Chongyang Ta, Zhi Jin, **Fang Liu**, Jia Li, Ge Li, ZC^3: Zero-Shot Cross-Language Code Clone Detection (**CCF-A**)
+- **[ASE'23]** Jia Li, Chongyang Tao, Zhi Jin, **Fang Liu**, Jia Li, Ge Li, ZC^3: Zero-Shot Cross-Language Code Clone Detection (**CCF-A**)
+- **[Internetware'23]** Jia Li, **Fang Liu**, Jia Li, Yunfei Zhao, Ge Li, Zhi Jin, MCodeSearcher: Multi-View Contrastive Learning for Code Search (**CCF-C**)
 - **[ICSE'23]** **Fang Liu**, Jia Li, Li Zhang, Syntax and Domain Aware Model for Unsupervised Program Translation (**CCF-A**)
 - **[ASEJ'23]** Zejun Wang, **Fang Liu**, Yiyang Hao, Zhi Jin, AdaComplete: Improve DL-based Code Completion Method’s Domain Adaptability (**CCF-B**)
 - **[ICSE'22]** **Fang Liu**, Ge Li, Zhiyi Fu, Shuai Lu, Yiyang Hao, Zhi Jin, Learning to Recommend Method Names with Global Context (**CCF-A**)
