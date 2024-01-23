@@ -20,6 +20,8 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications
+- **[SANER'24]** Xin Tan, Taichuan Li, Ruohe Chen, **Fang Liu**, Li Zhang, Challenges of Using Pre-trained Models: the Practitioners’ Perspective (**CCF-B**)
+- **[SANER'24]** Shuo Liu, Jacky Keung, Zhen Yang, **Fang Liu**, Qilin Zhou, Yihan Liao, Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study (**CCF-B**)
 - **[SCIS'23]** **Fang Liu**, Ge Li, Qianhui Zhao, Li Zhang, Learning to Represent Code Semantics (**CCF-A**)
 - **[ASE'23]** Jia Li, Chongyang Tao, Zhi Jin, **Fang Liu**, Jia Li, Ge Li, ZC^3: Zero-Shot Cross-Language Code Clone Detection (**CCF-A**)
 - **[Internetware'23]** Jia Li, **Fang Liu**, Jia Li, Yunfei Zhao, Ge Li, Zhi Jin, MCodeSearcher: Multi-View Contrastive Learning for Code Search (**CCF-C**)
