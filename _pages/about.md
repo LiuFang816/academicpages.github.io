@@ -20,7 +20,8 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ---
 
 ### Publications
-- **[TOSEM'24]** **Fang Liu**, Zhiyi Fu, Ge Li, Zhi Jin, Hui Liu, Yiyang Hao, Li Zhang, Non-Autoregressive Line-Level Code Completion (**CCF-A**) 
+- **[TOSEM'24]** **Fang Liu**, Zhiyi Fu, Ge Li, Zhi Jin, Hui Liu, Yiyang Hao, Li Zhang, Non-Autoregressive Line-Level Code Completion (**CCF-A**)
+- **[LREC-COLING'24]** Qingfu Zhu, Xianzhen Luo, **Fang Liu**, Cuiyun Gao and Wanxiang Che, A Survey on Natural Language Processing for Programming (**CCF-B**)
 - **[SANER'24]** Xin Tan, Taichuan Li, Ruohe Chen, **Fang Liu**, Li Zhang, Challenges of Using Pre-trained Models: the Practitioners’ Perspective (**CCF-B**)
 - **[SANER'24]** Shuo Liu, Jacky Keung, Zhen Yang, **Fang Liu**, Qilin Zhou, Yihan Liao, Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study (**CCF-B**)
 - **[SCIS'24]** Huangzhao Zhang, Kechi Zhang, Zhuo Li, Jia Li, Jia Li, Yongmin Li, Yunfei Zhao, Yuqi Zhu, **Fang Liu**, Ge Li, Zhi Jin, Deep Learning for Code Generation: A Survey (**CCF-A**)
