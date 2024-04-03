@@ -44,6 +44,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ### On-going Work
 - [\[arxiv\]](https://arxiv.org/pdf/2404.00971.pdf) **Fang Liu**, Yang Liu, Lin Shi, Houkun Huang, Ruifeng Wang, Zhen Yang, Li Zhang, Exploring and Evaluating Hallucinations in  LLM-Powered Code Generation
 - [\[arxiv\]](https://arxiv.org/pdf/2404.01754.pdf) Qianhui Zhao, **Fang Liu**, Li Zhang, Yang Liu, Zhen Yan, Zhenghao Chen, Yufei Zhou, Jing Jiang, Ge Li, Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments
+  
 ---
 
 ### Contact
