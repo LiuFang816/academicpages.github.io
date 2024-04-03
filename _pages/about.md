@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Assistant Professor at School of Computer Science & Engineering, Beihang University, China. My research mainly focuses on software engineering, including AI for SE, program understanding and recommendation.
+I am currently an Assistant Professor at School of Computer Science & Engineering, Beihang University, China. My research mainly focuses on software engineering, including AI for SE, program understanding, and recommendation.
 
 ---
 
@@ -22,8 +22,8 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 ### Publications
 - **[TOSEM'24]** **Fang Liu**, Zhiyi Fu, Ge Li, Zhi Jin, Hui Liu, Yiyang Hao, Li Zhang, Non-Autoregressive Line-Level Code Completion (**CCF-A**)
 - **[LREC-COLING'24]** Qingfu Zhu, Xianzhen Luo, **Fang Liu**, Cuiyun Gao and Wanxiang Che, A Survey on Natural Language Processing for Programming (**CCF-B**)
-- **[SANER'24]** Xin Tan, Taichuan Li, Ruohe Chen, **Fang Liu**, Li Zhang, Challenges of Using Pre-trained Models: the Practitioners’ Perspective (**CCF-B**)
-- **[SANER'24]** Shuo Liu, Jacky Keung, Zhen Yang, **Fang Liu**, Qilin Zhou, Yihan Liao, Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study (**CCF-B**)
+- **[SANER'24]** Xin Tan, Taichuan Li, Ruohe Chen, **Fang Liu\***, Li Zhang, Challenges of Using Pre-trained Models: the Practitioners’ Perspective (**CCF-B**)
+- **[SANER'24]** Shuo Liu, Jacky Keung, Zhen Yang, **Fang Liu\***, Qilin Zhou, Yihan Liao, Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study (**CCF-B**)
 - **[SCIS'24]** Huangzhao Zhang, Kechi Zhang, Zhuo Li, Jia Li, Jia Li, Yongmin Li, Yunfei Zhao, Yuqi Zhu, **Fang Liu**, Ge Li, Zhi Jin, Deep Learning for Code Generation: A Survey (**CCF-A**)
 - **[SCIS'23]** **Fang Liu**, Ge Li, Qianhui Zhao, Li Zhang, Learning to Represent Code Semantics (**CCF-A**)
 - **[ASE'23]** Jia Li, Chongyang Tao, Zhi Jin, **Fang Liu**, Jia Li, Ge Li, ZC^3: Zero-Shot Cross-Language Code Clone Detection (**CCF-A**)
@@ -39,6 +39,11 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - **[Journal of Software'19]** Xing Hu, Ge Li, **Fang Liu**, Zhi Jin. Program Generation and Code Completion Techniques Based on Deep Learning: Literature Review (**CCF中文-A**)
 - **[Journal of Software'19]** Zhi Jin, **Fang Liu**, Ge Li, Program Comprehension: Present and Future (**CCF中文-A**)
 
+---
+
+### On-going Work
+- [\[arxiv\]](https://arxiv.org/pdf/2404.00971.pdf) **Fang Liu**, Yang Liu, Lin Shi, Houkun Huang, Ruifeng Wang, Zhen Yang, Li Zhang, Exploring and Evaluating Hallucinations in  LLM-Powered Code Generation
+- [\[arxiv\]](https://arxiv.org/pdf/2404.01754.pdf) Qianhui Zhao, **Fang Liu**, Li Zhang, Yang Liu, Zhen Yan, Zhenghao Chen, Yufei Zhou, Jing Jiang, Ge Li, Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments
 ---
 
 ### Contact
