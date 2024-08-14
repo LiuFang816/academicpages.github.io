@@ -23,6 +23,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - **[ASE'24]** **Fang Liu\#**, Zhenwei Liu\#, Qianhui Zhao, Jing Jiang\*, Li Zhang, Zian Sun, Ge Li, Zhongqi Li, Yuchi Ma, FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments (**CCF-A**)
 - **[ASE'24]** Jiuang Zhao, Donghao Yang, Li Zhang, Xiaoli Lian, Zitian Yang, **Fang Liu**, Enhancing Automated Program Repair with Solution Design (**CCF-A**)
 - **[FSE'24]** Zhen Yang, **Fang Liu\***, Zhongxing Yu\*, Jacky Wai Keung, Jia Li, Shuo Liu, Yifan Hong, Xiaoxue Ma, Zhi Jin, Ge Li, Exploring and Unleashing the Power of Large Language Models in Automated Code Translation (**CCF-A**)
+- **[ICSE'24 poster]** Xiaoli Lian, Shuaisong Wang, Jieping Ma, Xin Tan, **Fang Liu**, Lin Shi, Cuiyun Gao, Li Zhang, Imperfect Code Generation: Uncovering Weaknesses in Automatic Code Generation by Large Language Models (**CCF-A**)
 - **[TOSEM'24]** **Fang Liu**, Zhiyi Fu, Ge Li, Zhi Jin, Hui Liu, Yiyang Hao, Li Zhang, Non-Autoregressive Line-Level Code Completion (**CCF-A**)
 - **[LREC-COLING'24]** Qingfu Zhu, Xianzhen Luo, **Fang Liu**, Cuiyun Gao and Wanxiang Che, A Survey on Natural Language Processing for Programming (**CCF-B**)
 - **[SANER'24]** Xin Tan, Taichuan Li, Ruohe Chen, **Fang Liu\***, Li Zhang, Challenges of Using Pre-trained Models: the Practitioners’ Perspective (**CCF-B**)
