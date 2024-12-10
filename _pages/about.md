@@ -49,6 +49,7 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 - [\[arxiv\]](https://arxiv.org/pdf/2404.00971.pdf) **Fang Liu**, Yang Liu, Lin Shi, Houkun Huang, Ruifeng Wang, Zhen Yang, Li Zhang, Exploring and Evaluating Hallucinations in  LLM-Powered Code Generation
 - [\[arxiv\]](https://arxiv.org/pdf/2404.01754.pdf) Qianhui Zhao\#, **Fang Liu\#**, Li Zhang, Yang Liu, Zhen Yan, Zhenghao Chen, Yufei Zhou, Jing Jiang, Ge Li, Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments
 - [\[arxiv\]](https://arxiv.org/pdf/2310.09748.pdf) Jia Li, Ge Li, Chongyang Tao, Jia Li, Huangzhao Zhang, **Fang Liu**, Zhi Jin, Large Language Model-Aware In-Context Learning for Code Generation
+- [\[arxiv\]](https://arxiv.org/pdf/2412.02410) Donghao Yang\#, Aolang Wu\#, Tianyi Zhang\#, Li Zhang, **Fang Liu\***, Xiaoli Lian\*, Yuming Ren, Jiaji Tian, A Multi-Agent Framework for Extensible Structured Text Generation in PLCs
   
 ---
 
