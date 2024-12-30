@@ -19,6 +19,14 @@ I am currently an Assistant Professor at School of Computer Science & Engineerin
 
 ---
 
+### Teaching
+
+- Compiler Technology at Beihang University（Fall）
+  - Compulsory Course
+  - Credits/Hours: 4.5/96 (48 Lecture Hours + 48 Lab Hours)
+    
+---
+
 ### Publications (\# means co-first author; \* means corresponding author)
 - **[ASE'24]** **Fang Liu\#**, Zhenwei Liu\#, Qianhui Zhao, Jing Jiang\*, Li Zhang, Zian Sun, Ge Li, Zhongqi Li, Yuchi Ma, FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments (**CCF-A**)
 - **[ASE'24]** Jiuang Zhao, Donghao Yang, Li Zhang, Xiaoli Lian, Zitian Yang, **Fang Liu**, Enhancing Automated Program Repair with Solution Design (**CCF-A**)
